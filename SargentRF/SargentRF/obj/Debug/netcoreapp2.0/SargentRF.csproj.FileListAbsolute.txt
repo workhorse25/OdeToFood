@@ -1,0 +1,11 @@
+C:\dev\SargentRF\SargentRF\bin\Debug\netcoreapp2.0\SargentRF.deps.json
+C:\dev\SargentRF\SargentRF\bin\Debug\netcoreapp2.0\SargentRF.runtimeconfig.json
+C:\dev\SargentRF\SargentRF\bin\Debug\netcoreapp2.0\SargentRF.runtimeconfig.dev.json
+C:\dev\SargentRF\SargentRF\bin\Debug\netcoreapp2.0\SargentRF.dll
+C:\dev\SargentRF\SargentRF\bin\Debug\netcoreapp2.0\SargentRF.pdb
+C:\dev\SargentRF\SargentRF\obj\Debug\netcoreapp2.0\SargentRF.csprojResolveAssemblyReference.cache
+C:\dev\SargentRF\SargentRF\obj\Debug\netcoreapp2.0\SargentRF.csproj.CoreCompileInputs.cache
+C:\dev\SargentRF\SargentRF\obj\Debug\netcoreapp2.0\SargentRF.AssemblyInfoInputs.cache
+C:\dev\SargentRF\SargentRF\obj\Debug\netcoreapp2.0\SargentRF.AssemblyInfo.cs
+C:\dev\SargentRF\SargentRF\obj\Debug\netcoreapp2.0\SargentRF.dll
+C:\dev\SargentRF\SargentRF\obj\Debug\netcoreapp2.0\SargentRF.pdb

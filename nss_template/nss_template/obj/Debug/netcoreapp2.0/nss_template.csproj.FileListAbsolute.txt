@@ -1,0 +1,11 @@
+c:\dev\nss_template\nss_template\bin\Debug\netcoreapp2.0\nss_template.deps.json
+c:\dev\nss_template\nss_template\bin\Debug\netcoreapp2.0\nss_template.runtimeconfig.json
+c:\dev\nss_template\nss_template\bin\Debug\netcoreapp2.0\nss_template.runtimeconfig.dev.json
+c:\dev\nss_template\nss_template\bin\Debug\netcoreapp2.0\nss_template.dll
+c:\dev\nss_template\nss_template\bin\Debug\netcoreapp2.0\nss_template.pdb
+c:\dev\nss_template\nss_template\obj\Debug\netcoreapp2.0\nss_template.csprojResolveAssemblyReference.cache
+c:\dev\nss_template\nss_template\obj\Debug\netcoreapp2.0\nss_template.csproj.CoreCompileInputs.cache
+c:\dev\nss_template\nss_template\obj\Debug\netcoreapp2.0\nss_template.AssemblyInfoInputs.cache
+c:\dev\nss_template\nss_template\obj\Debug\netcoreapp2.0\nss_template.AssemblyInfo.cs
+c:\dev\nss_template\nss_template\obj\Debug\netcoreapp2.0\nss_template.dll
+c:\dev\nss_template\nss_template\obj\Debug\netcoreapp2.0\nss_template.pdb
