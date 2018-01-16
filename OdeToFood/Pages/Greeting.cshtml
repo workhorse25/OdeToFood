@@ -1,0 +1,8 @@
+﻿@page
+@inject IGreeter    Greeter
+    @{ViewBag.Title="FUNNY!!!";}
+    <div>@Greeter.GetMessageOfTheDay()</div>
+
+@section footer{ 
+    "This is the footer"
+}
